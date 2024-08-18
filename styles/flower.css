@@ -7,6 +7,16 @@ nav{
    
 }
 
+.section-title{
+    text-align: center;
+    font-size: 35px;
+}
+
+.section-description{
+    text-align: center;
+
+}
+
 .btn-primary{
     border-radius: 5px;
     background-color: #E55473;
@@ -30,4 +40,24 @@ header{
 
 .banner .profile-pic{
     width: 400px;
+}
+
+/* main section styles */
+
+
+/*Featured section styles */
+.Featured{
+    padding: 130px;
+
+}
+.tree{
+    padding: 0px 30px 03px 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 130px;
+}
+.pic{
+    width: 200px;
+    
 }

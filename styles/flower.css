@@ -56,8 +56,65 @@ header{
     align-items: center;
     justify-content: space-between;
     margin: 130px;
+
 }
 .pic{
     width: 200px;
+
+}
+
+#Support-container{
+    background-color: #27272710;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.hot{
+    display: flex;
+    text-align: center;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+.hot-pic{
+    width: 318px;
+    height: 420px;
+}
+
+.hot-title{
+    padding: 80px 30px 30px 230px;
+
+}
+
+#Instagram-describtion{
+    padding: 1px  150px;
+    text-align: center;
+}
+.instragram-img{
+    display: flex;
+    width: 232px;
+    height: 296px;
+}
+
+.ins-pic{
+    padding: 5px 10px 15px 10px;
+}
+
+.Deals{
+   
+    padding: 50px 100px 50px 100px;
     
+}
+
+    .email-su{
+    padding: 20px 230px;
+    border: 0;
+}
+
+footer{
+    background-color: #111010;
+    color: white;
+    text-align: center;
 }
